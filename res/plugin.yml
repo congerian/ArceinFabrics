@@ -1,0 +1,8 @@
+name: FactionFactories
+main: ru.arcein.plugins.factions.factories.FactoriesPlugin
+version: 0.0.2
+depend: [Factions, HolographicDisplays]
+commands:
+  factoriesreload:
+    description: Reload factions
+    usage: /factoriesreload

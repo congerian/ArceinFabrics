@@ -1,0 +1,13 @@
+factories:
+  factory1:
+    name: 'Залупинннск'
+    radius: 4.0
+    x: 0.5
+    y: 0.5
+    z: 0.5
+    no-home-range: 300.0
+    start: '10:12'
+    end: '10:25'
+    seconds-to-win: 15.0
+    reward: 250000
+    radius-to-announce: 15
